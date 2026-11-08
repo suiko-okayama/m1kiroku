@@ -3,5 +3,7 @@
 reference/
 # 仕様書（手元だけに残す）
 SPEC.md
+# アイコンの試作
+icon-ideas/
 # Claude Code の作業用設定
 .claude/

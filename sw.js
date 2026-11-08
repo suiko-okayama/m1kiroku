@@ -2,7 +2,7 @@
 // ★アプリを更新して公開するときは、下の VERSION の数字を1つ上げる（v1 → v2）。
 //   すると次に開いたとき新しいファイルを取り込み、その次の起動から新しい版になる。
 //   記録データは別の場所（IndexedDB）にあるので、更新しても消えない。
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = `netacho-${VERSION}`;
 
 const FILES = [
